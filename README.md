@@ -28,11 +28,16 @@
 
 ## 🖥️ 기술 스택
 프론트엔드:
+
 React.js
+
 백엔드:
+
 Java Spring Framework (Spring Boot, Spring Security 등)
 RESTful API
 JPA (Java Persistence API) + MySQL
+
 데이터 처리 및 분석:
+
 Python (Pandas, NumPy)
 머신러닝 라이브러리 (scikit-learn, TensorFlow, Keras)
