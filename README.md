@@ -1,5 +1,6 @@
 # 🌍 광진구 안전·환경 모니터링 플랫폼
-![제목을 입력해주세요_-001](https://github.com/user-attachments/assets/771901fc-c57c-408c-99d1-cbed45543cda)
+
+![gagwa](https://github.com/user-attachments/assets/2307e669-90b1-4f55-8798-fe057c549606)
 
 ## 📌 프로젝트 개요
 광진구의 안전과 환경 문제를 해결하기 위한 데이터 기반 모니터링 플랫폼입니다. 머신러닝과 AI 기술을 활용하여 사회 안전성과 환경 개선을 위한 효과적인 방안을 제시합니다.
