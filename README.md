@@ -1,6 +1,5 @@
 # 🌍 광진구 안전·환경 모니터링 플랫폼
 
-![gangwas](https://github.com/user-attachments/assets/c302e87f-599a-4a97-a3cd-6647b2935a88)
 
 
 ## 📌 프로젝트 개요
