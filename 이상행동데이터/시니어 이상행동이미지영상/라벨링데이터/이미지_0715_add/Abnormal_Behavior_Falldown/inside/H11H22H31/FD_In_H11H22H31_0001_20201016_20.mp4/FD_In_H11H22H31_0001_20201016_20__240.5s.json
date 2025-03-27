@@ -1,0 +1,46 @@
+{
+	"dataset": {
+		"description": null,
+		"version": null,
+		"date_created": null,
+		"attributes": {
+			"augmented": null,
+			"answer_refined": null
+		}
+	},
+	"image": {
+		"file_name": "FD_In_H11H22H31_0001_20201016_20__240.5s.jpg",
+		"attributes": {
+			"color": 3,
+			"width": 3840,
+			"height": 2160,
+			"url": "Final_Image_JSON/FD_In_H11H22H31_0001_20201016_20.mp4/FD_In_H11H22H31_0001_20201016_20__240.5s.jpg"
+		}
+	},
+	"content": {
+		"object": {
+			"algorithm": {
+				"algorithm": "CenterNet",
+				"model": "CenterNet",
+				"name_list": null
+			},
+			"annotation": {
+				"bboxes": [
+					[
+						0.46562499999999996,
+						0.1375,
+						0.524219,
+						0.347222
+					]
+				],
+				"ids": null,
+				"names": [
+					"actor"
+				],
+				"scores": [
+					0.6254512227279871
+				]
+			}
+		}
+	}
+}

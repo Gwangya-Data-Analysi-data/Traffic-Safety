@@ -1,0 +1,46 @@
+{
+	"dataset": {
+		"description": null,
+		"version": null,
+		"date_created": null,
+		"attributes": {
+			"augmented": null,
+			"answer_refined": null
+		}
+	},
+	"image": {
+		"file_name": "FD_In_H11H22H31_0001_20201016_20__239.0s.jpg",
+		"attributes": {
+			"color": 3,
+			"width": 3840,
+			"height": 2160,
+			"url": "NIA_120_Abnomal/Total/FD_In_H11H22H31_0001_20201016_20.mp4/FD_In_H11H22H31_0001_20201016_20__239.0s.jpg"
+		}
+	},
+	"content": {
+		"object": {
+			"algorithm": {
+				"algorithm": "CenterNet",
+				"model": "CenterNet",
+				"name_list": null
+			},
+			"annotation": {
+				"bboxes": [
+					[
+						0.46406285,
+						0.147222,
+						0.53671915,
+						0.34536999999999995
+					]
+				],
+				"ids": null,
+				"names": [
+					"actor"
+				],
+				"scores": [
+					0.5175381680329951
+				]
+			}
+		}
+	}
+}

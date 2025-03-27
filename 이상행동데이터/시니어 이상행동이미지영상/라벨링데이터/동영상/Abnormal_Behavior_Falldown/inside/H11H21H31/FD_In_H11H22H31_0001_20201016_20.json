@@ -1,0 +1,29 @@
+{
+	"annotations": {
+		"duration": "00:05:00",
+		"resourceId": "JFID_002330967",
+		"resource": "FD_In_H11H22H31_0001_20201016_20.mp4",
+		"resourcePath": ".//PID_000001857/",
+		"fps": 29.97,
+		"totFrame": 0,
+		"resourceSize": 381141978,
+		"object": [
+			{
+				"startPosition": {
+					"x": "1968.2953307735665",
+					"y": "377.0414201183432",
+					"keyFrame": 7801.0
+				},
+				"endPosition": {
+					"x": "2083.3255773772166",
+					"y": "939.4082840236686",
+					"keyFrame": 7860.0
+				},
+				"startFrame": 7801.0,
+				"endFrame": 7860.0,
+				"actionType": "ABNOR_H",
+				"actionName": "H11H22H31"
+			}
+		]
+	}
+}
