@@ -31,10 +31,13 @@
 
 데이터 처리 및 분석: Python (Pandas, NumPy) ,머신러닝 라이브러리 (scikit-learn, TensorFlow, Keras)
 
+<div align = "center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
+</div>
+<div align = "center">
 <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white">
@@ -42,3 +45,4 @@
 <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=plastic&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=plastic&logo=React Query&logoColor=white">
+</div>
