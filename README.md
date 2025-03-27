@@ -13,9 +13,7 @@
 
 ✅ 사진 분석을 통한 실시간 이상행동 감지
 
-✅ 미세먼지 및 공기질 예측
-
-✅ 출퇴근·교통 흐름 분석 및 최적화
+✅ 교통 흐름 분석 및 불법 주정차 신고
 
 ## 🚀 팀 소개
 | 역할 | 주요 업무 | 담당 분야 |
@@ -32,3 +30,15 @@
 백엔드: Java Spring Framework (Spring Boot, Spring Security 등) RESTful API ,JPA (Java Persistence API) + MySQL
 
 데이터 처리 및 분석: Python (Pandas, NumPy) ,머신러닝 라이브러리 (scikit-learn, TensorFlow, Keras)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white">
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=plastic&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=plastic&logo=React Query&logoColor=white">
