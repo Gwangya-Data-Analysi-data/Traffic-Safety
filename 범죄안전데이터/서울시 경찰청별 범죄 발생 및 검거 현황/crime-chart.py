@@ -59,6 +59,7 @@ file2023_path = os.getenv('FILE2023_PATH')
 file_path22_21 = os.getenv('FILE_PATH22_21')
 file_path19_20 = os.getenv('FILE_PATH19_20')
 file_path17_18 = os.getenv('FILE_PATH17_18')
+file_image_crime = os.getenv('File_image_crime')
 
 # 서울 전체 데이터 추출 (연도별)
 df2023 = read_and_extract_city(file2023_path, year=2023, city='서울')
@@ -141,4 +142,6 @@ axs[1].legend(title='범죄유형', bbox_to_anchor=(1.02, 1), loc='upper left')
 
 # 레이아웃 조정 및 출력
 plt.tight_layout()
-plt.show()
+# plt.show()
+
+plt.savefig(file_image_crime, format="png", dpi=300)

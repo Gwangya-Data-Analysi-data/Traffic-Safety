@@ -17,6 +17,7 @@ load_dotenv()
 file_path_subway = os.getenv('FiLE_PATH_subway')
 file_path_timeday = os.getenv('FiLE_PATH_timeday')
 file_path_timeweek = os.getenv("FiLE_PATH_timeweek")
+file_image_traffic = os.getenv('File_image_traffic')
 
 # CSV 파일 읽기
 df_subway = pd.read_csv(file_path_subway, encoding='euc-kr')
@@ -182,7 +183,7 @@ plt.ylabel("정규화된 비율")
 plt.grid(True, linestyle='--', alpha=0.7)
 plt.legend()
 plt.tight_layout()
-plt.show()
-
+# 차트를 이미지로 저장 (PNG 형식)
+plt.savefig(file_image_traffic, format="png", dpi=300)
 
 ##힙의 차이가 너무 지하철이 커서 car 이 일자형으로 나옴옴
