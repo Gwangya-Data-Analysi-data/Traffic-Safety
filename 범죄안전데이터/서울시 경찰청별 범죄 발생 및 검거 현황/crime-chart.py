@@ -84,8 +84,16 @@ categories = list(df2023['범죄별(2)_범죄별(2)_범죄별(2)'].unique())
 years = [2017, 2018, 2019, 2020, 2021, 2022, 2023]
 
 # 사용자 지정 색상 (요청한 색상 계열)
-color_list = ["#EDBD53", "#EFC364", "#F1CA75", "#F4D798", "#F6DEA9", "#F8E5BA", "#FADAC2", "#FCDFD2"]
-
+color_list = [
+    "#00008B",  # DarkBlue
+    "#0000CD",  # MediumBlue
+    "#191970",  # MidnightBlue
+    "#1E90FF",  # DodgerBlue
+    "#4169E1",  # RoyalBlue
+    "#4682B4",  # SteelBlue
+    "#5F9EA0",  # CadetBlue
+    "#6495ED"   # CornflowerBlue
+]
 # 연도별 데이터프레임 리스트
 year_df = [df2023, df2022, df2021, df2020, df2019, df2018, df2017]
 
